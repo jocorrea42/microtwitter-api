@@ -40,5 +40,5 @@ Este proyecto es parte de mi portafolio profesional como desarrollador Back-End,
 ### Clonar el proyecto
 
 ```bash
-git clone https://github.com/tuusuario/microtwitter-api.git
+git clone https://github.com/jocorrea42/microtwitter-api.git
 cd microtwitter-api
