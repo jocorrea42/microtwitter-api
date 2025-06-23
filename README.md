@@ -38,7 +38,11 @@ Este proyecto es parte de mi portafolio profesional como desarrollador Back-End,
 - Git
 
 ### Clonar el proyecto
+📚 Autor
 
+José Correa
+Desarrollador Back-End y entusiasta del análisis de datos.
+LinkedIn · GitHub
 ```bash
 git clone https://github.com/jocorrea42/microtwitter-api.git
 cd microtwitter-api
